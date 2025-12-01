@@ -1,5 +1,0 @@
-streamlit
-flask
-requests
-pandas
-numpy
